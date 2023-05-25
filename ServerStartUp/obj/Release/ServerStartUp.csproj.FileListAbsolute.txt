@@ -1,0 +1,12 @@
+C:\Users\Diego\Desktop\ServerStartUp\bin\Release\ServerStartUp.exe.config
+C:\Users\Diego\Desktop\ServerStartUp\bin\Release\ServerStartUp.exe
+C:\Users\Diego\Desktop\ServerStartUp\bin\Release\ServerStartUp.pdb
+C:\Users\Diego\Desktop\ServerStartUp\obj\Release\ServerStartUp.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\ServerStartUp\obj\Release\ServerStartUp.Properties.Resources.resources
+C:\Users\Diego\Desktop\ServerStartUp\obj\Release\ServerStartUp.bor_FAbout.resources
+C:\Users\Diego\Desktop\ServerStartUp\obj\Release\ServerStartUp.bor_FMain.resources
+C:\Users\Diego\Desktop\ServerStartUp\obj\Release\ServerStartUp.bor_FSettings.resources
+C:\Users\Diego\Desktop\ServerStartUp\obj\Release\ServerStartUp.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\ServerStartUp\obj\Release\ServerStartUp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\ServerStartUp\obj\Release\ServerStartUp.exe
+C:\Users\Diego\Desktop\ServerStartUp\obj\Release\ServerStartUp.pdb
